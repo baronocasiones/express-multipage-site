@@ -13,6 +13,10 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "ejs": "^3.1.10",
+>>>>>>> c190707 (added challenge task)
     "express": "^5.1.0",
     "nodemon": "^3.1.10"
   }
